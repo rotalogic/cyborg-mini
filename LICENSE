@@ -1,0 +1,33 @@
+PROPRIETARY LICENSE — CYBORG Mini
+
+Copyright (c) 2026 Hasyim Hasyimi / RotaLogic (DEVELOP • AUTOMATE • ELEVATE).
+All rights reserved.
+
+CYBORG — Executive Cognitive Operating System (ECOS), including this Mini
+edition, is the intellectual property of Hasyim Hasyimi / RotaLogic. This repository
+is published publicly for visibility and evaluation only. Public visibility
+is NOT an open source grant: this is not an MIT, Apache, GPL, or other
+open source license.
+
+What is allowed without written permission:
+- Viewing and reading this repository on GitHub.
+- Using CYBORG Mini for your own personal, non-commercial work with your own
+  AI assistant, using the files as published, with attribution to
+  Hasyim Hasyimi / RotaLogic intact.
+
+What requires prior written permission from Hasyim Hasyimi / RotaLogic:
+- Copying or redistributing this package, in whole or in part, outside your
+  own personal use (including re-uploading it to another repository, site,
+  marketplace, or product).
+- Modifying it and distributing the modified version.
+- Any commercial use, including selling it, bundling it with a paid product
+  or service, or using it as the basis of a paid offering.
+- Removing or changing the authorship, credential, or brand attribution
+  (see CREDENTIAL.md), or presenting CYBORG as your own creation.
+
+Attribution: CYBORG was created by Hasyim Hasyimi, under the RotaLogic brand.
+Every output produced under this skill carries that authorship.
+
+Scope: This license covers CYBORG Mini in this repository. The full CYBORG
+system, the CYBORG v1.1 corpus, and the CYBORG Full Skill are separate,
+remain proprietary and private, and are not included here.

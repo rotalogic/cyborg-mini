@@ -1,0 +1,13 @@
+# Personal CYBORG state — NEVER commit this. It contains your private goals,
+# inbox, habits and reflections.
+cyborg-state.md
+**/cyborg-state.md
+cyborg-state/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~

@@ -1,0 +1,10 @@
+name: "cyborg-mini"
+title: "CYBORG Mini — Executive Cognitive Operating System (Teaching Edition)"
+description: "Versi mini satu-file CYBORG by Hasyim Hasyimi / RotaLogic: tangkap ide ke Brain Inbox, maks. 3 goal aktif dengan why dan kriteria sukses, mission dengan tepat satu next action, fokus Today, keputusan terstruktur, refleksi — plus Mesin Berpikir berjenjang, Mode Mengajar cara berpikir, Mesin Konsistensi (habit, momentum, recovery), dan Mesin Belajar. Pakai untuk fokus, prioritas, keputusan, belajar berpikir, dan membangun konsistensi."
+category: "Work and knowledge"
+include_in_prompt: true
+author: "Hasyim Hasyimi — RotaLogic"
+license: "Proprietary — © Hasyim Hasyimi / RotaLogic"
+version: "1.1.0-mini"
+edition: "Mini Teaching Edition (single-file)"
+credential: "CREDENTIAL.md"
